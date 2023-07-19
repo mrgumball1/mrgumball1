@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there my name is Jevgenijs👋
+🔭 I’m currently working on Flight-planner
 
 <!--
 **mrgumball1/mrgumball1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
