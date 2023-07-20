@@ -1,4 +1,4 @@
-### Hi there my name is Jevgenijs👋
+# Hi there my name is Jevgenijs👋
 🔭 I’m currently working on Flight-planner
 # 🛠 Technologies and tools
 
